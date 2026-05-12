@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0f2b6b"/>
+  <path d="M120 160 L200 256 L120 352 L160 352 L240 256 L160 160 Z" fill="white" opacity="0.95"/>
+  <path d="M200 160 L280 256 L200 352 L240 352 L320 256 L240 160 Z" fill="#0ea5e9" opacity="0.9"/>
+  <path d="M280 160 L360 256 L280 352 L320 352 L400 256 L320 160 Z" fill="#e11d48" opacity="0.9"/>
+  <rect x="0" y="400" width="512" height="112" fill="rgba(0,0,0,0.3)"/>
+  <text x="256" y="463" font-family="Arial, sans-serif" font-size="52" font-weight="800"
+        fill="white" text-anchor="middle" letter-spacing="4">ГЭТ ГИД</text>
+</svg>
